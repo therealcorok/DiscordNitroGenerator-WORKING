@@ -1,6 +1,12 @@
-# discordnitrogen
-uses Opera GX method to work.
-Made as a christmas gift to everyone!
+# DiscordNitroGenerator-WORKING
+#### Information
+-Uses Opera GX x Discord method to work. 
+
+-Generates a free month of nitro.
+
+-Expires in June 18th, 2024 PST(Pacific Standard Time)
+
+-Made as a christmas gift to everyone!
 ### Links
 Documentation: https://github.com/therealcorok/DiscordNitroGenerator-WORKING/blob/main/documentation.md
 
